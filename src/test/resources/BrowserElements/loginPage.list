@@ -1,0 +1,3 @@
+login.user.name.input=xpath,button,
+login.user.password.input=xpath,button,
+login.submit.button=xpath,button,
